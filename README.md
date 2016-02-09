@@ -1,2 +1,2 @@
 # tasks-java-ee
-front code client
+Repository contenant les codes d'IHM
